@@ -48,7 +48,7 @@
       "enabled": true,
       "dmPolicy": "pairing",
       "botToken": "8570215691:AAGr0fsElXDW8D_3lkfrLAuw8m_wEJNEoqM",
-      "groupPolicy": "allowlist",
+      "groupPolicy": "open",
       "streaming": "partial"
     }
   },
